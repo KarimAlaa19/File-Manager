@@ -1,0 +1,14 @@
+E:\Projects\Learning\Headway\02. OOP\01. File Manager\File Manager\FileManager1\bin\Debug\net7.0\FileManager1.exe
+E:\Projects\Learning\Headway\02. OOP\01. File Manager\File Manager\FileManager1\bin\Debug\net7.0\FileManager1.deps.json
+E:\Projects\Learning\Headway\02. OOP\01. File Manager\File Manager\FileManager1\bin\Debug\net7.0\FileManager1.runtimeconfig.json
+E:\Projects\Learning\Headway\02. OOP\01. File Manager\File Manager\FileManager1\bin\Debug\net7.0\FileManager1.dll
+E:\Projects\Learning\Headway\02. OOP\01. File Manager\File Manager\FileManager1\bin\Debug\net7.0\FileManager1.pdb
+E:\Projects\Learning\Headway\02. OOP\01. File Manager\File Manager\FileManager1\obj\Debug\net7.0\FileManager1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Learning\Headway\02. OOP\01. File Manager\File Manager\FileManager1\obj\Debug\net7.0\FileManager1.AssemblyInfoInputs.cache
+E:\Projects\Learning\Headway\02. OOP\01. File Manager\File Manager\FileManager1\obj\Debug\net7.0\FileManager1.AssemblyInfo.cs
+E:\Projects\Learning\Headway\02. OOP\01. File Manager\File Manager\FileManager1\obj\Debug\net7.0\FileManager1.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\Headway\02. OOP\01. File Manager\File Manager\FileManager1\obj\Debug\net7.0\FileManager1.dll
+E:\Projects\Learning\Headway\02. OOP\01. File Manager\File Manager\FileManager1\obj\Debug\net7.0\refint\FileManager1.dll
+E:\Projects\Learning\Headway\02. OOP\01. File Manager\File Manager\FileManager1\obj\Debug\net7.0\FileManager1.pdb
+E:\Projects\Learning\Headway\02. OOP\01. File Manager\File Manager\FileManager1\obj\Debug\net7.0\FileManager1.genruntimeconfig.cache
+E:\Projects\Learning\Headway\02. OOP\01. File Manager\File Manager\FileManager1\obj\Debug\net7.0\ref\FileManager1.dll
